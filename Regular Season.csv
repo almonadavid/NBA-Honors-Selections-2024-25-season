@@ -1,0 +1,331 @@
+season,lg,team,playoffs true/false,tm,playoffs,topconf,topdivision
+2025,NBA,Atlanta Hawks,FALSE,ATL,0,0,0
+2025,NBA,Boston Celtics,FALSE,BOS,1,1,1
+2025,NBA,Brooklyn Nets,FALSE,BRK,0,0,0
+2025,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2025,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2025,NBA,Cleveland Cavaliers,FALSE,CLE,1,0,1
+2025,NBA,Dallas Mavericks,FALSE,DAL,0,0,0
+2025,NBA,Denver Nuggets,FALSE,DEN,1,0,0
+2025,NBA,Detroit Pistons,FALSE,DET,1,0,0
+2025,NBA,Golden State Warriors,FALSE,GSW,1,0,0
+2025,NBA,Houston Rockets,FALSE,HOU,1,0,1
+2025,NBA,Indiana Pacers,FALSE,IND,1,0,0
+2025,NBA,Los Angeles Clippers,FALSE,LAC,1,0,0
+2025,NBA,Los Angeles Lakers,FALSE,LAL,1,0,1
+2025,NBA,Memphis Grizzlies,FALSE,MEM,1,0,0
+2025,NBA,Miami Heat,FALSE,MIA,1,0,0
+2025,NBA,Milwaukee Bucks,FALSE,MIL,1,0,0
+2025,NBA,Minnesota Timberwolves,FALSE,MIN,1,0,0
+2025,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2025,NBA,New York Knicks,FALSE,NYK,1,0,0
+2025,NBA,Oklahoma City Thunder,FALSE,OKC,1,1,1
+2025,NBA,Orlando Magic,FALSE,ORL,1,0,1
+2025,NBA,Philadelphia 76ers,FALSE,PHI,0,0,0
+2025,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2025,NBA,Portland Trail Blazers,FALSE,POR,0,0,0
+2025,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2025,NBA,San Antonio Spurs,FALSE,SAS,0,0,0
+2025,NBA,Toronto Raptors,FALSE,TOR,0,0,0
+2025,NBA,Utah Jazz,FALSE,UTA,0,0,0
+2025,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2024,NBA,Atlanta Hawks,FALSE,ATL,0,0,0
+2024,NBA,Boston Celtics,TRUE,BOS,1,1,1
+2024,NBA,Brooklyn Nets,FALSE,BRK,0,0,0
+2024,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2024,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2024,NBA,Cleveland Cavaliers,TRUE,CLE,1,0,0
+2024,NBA,Dallas Mavericks,TRUE,DAL,1,0,1
+2024,NBA,Denver Nuggets,TRUE,DEN,1,0,0
+2024,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2024,NBA,Golden State Warriors,FALSE,GSW,0,0,0
+2024,NBA,Houston Rockets,FALSE,HOU,0,0,0
+2024,NBA,Indiana Pacers,TRUE,IND,1,0,0
+2024,NBA,Los Angeles Clippers,TRUE,LAC,1,0,1
+2024,NBA,Los Angeles Lakers,TRUE,LAL,1,0,0
+2024,NBA,Memphis Grizzlies,FALSE,MEM,0,0,0
+2024,NBA,Miami Heat,TRUE,MIA,1,0,0
+2024,NBA,Milwaukee Bucks,TRUE,MIL,1,0,1
+2024,NBA,Minnesota Timberwolves,TRUE,MIN,1,0,0
+2024,NBA,New Orleans Pelicans,TRUE,NOP,1,0,0
+2024,NBA,New York Knicks,TRUE,NYK,1,0,0
+2024,NBA,Oklahoma City Thunder,TRUE,OKC,1,1,1
+2024,NBA,Orlando Magic,TRUE,ORL,1,0,1
+2024,NBA,Philadelphia 76ers,TRUE,PHI,1,0,0
+2024,NBA,Phoenix Suns,TRUE,PHO,1,0,0
+2024,NBA,Portland Trail Blazers,FALSE,POR,0,0,0
+2024,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2024,NBA,San Antonio Spurs,FALSE,SAS,0,0,0
+2024,NBA,Toronto Raptors,FALSE,TOR,0,0,0
+2024,NBA,Utah Jazz,FALSE,UTA,0,0,0
+2024,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2023,NBA,Atlanta Hawks,FALSE,ATL,1,0,0
+2023,NBA,Boston Celtics,FALSE,BOS,1,0,1
+2023,NBA,Brooklyn Nets,FALSE,BRK,1,0,0
+2023,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2023,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2023,NBA,Cleveland Cavaliers,FALSE,CLE,1,0,0
+2023,NBA,Dallas Mavericks,FALSE,DAL,0,0,0
+2023,NBA,Denver Nuggets,FALSE,DEN,1,1,1
+2023,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2023,NBA,Golden State Warriors,FALSE,GSW,1,0,0
+2023,NBA,Houston Rockets,FALSE,HOU,0,0,0
+2023,NBA,Indiana Pacers,FALSE,IND,0,0,0
+2023,NBA,Los Angeles Clippers,FALSE,LAC,1,0,0
+2023,NBA,Los Angeles Lakers,FALSE,LAL,1,0,0
+2023,NBA,Memphis Grizzlies,FALSE,MEM,1,0,0
+2023,NBA,Miami Heat,FALSE,MIA,1,0,1
+2023,NBA,Milwaukee Bucks,FALSE,MIL,1,1,1
+2023,NBA,Minnesota Timberwolves,FALSE,MIN,1,0,0
+2023,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2023,NBA,New York Knicks,FALSE,NYK,1,0,0
+2023,NBA,Oklahoma City Thunder,FALSE,OKC,0,0,0
+2023,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2023,NBA,Philadelphia 76ers,FALSE,PHI,1,0,0
+2023,NBA,Phoenix Suns,FALSE,PHO,1,0,0
+2023,NBA,Portland Trail Blazers,FALSE,POR,0,0,0
+2023,NBA,Sacramento Kings,FALSE,SAC,1,0,1
+2023,NBA,San Antonio Spurs,FALSE,SAS,0,0,0
+2023,NBA,Toronto Raptors,FALSE,TOR,0,0,0
+2023,NBA,Utah Jazz,FALSE,UTA,0,0,0
+2023,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2022,NBA,Atlanta Hawks,TRUE,ATL,1,0,0
+2022,NBA,Boston Celtics,TRUE,BOS,1,0,1
+2022,NBA,Brooklyn Nets,TRUE,BRK,1,0,0
+2022,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2022,NBA,Chicago Bulls,TRUE,CHI,1,0,0
+2022,NBA,Cleveland Cavaliers,FALSE,CLE,0,0,0
+2022,NBA,Dallas Mavericks,TRUE,DAL,1,0,0
+2022,NBA,Denver Nuggets,TRUE,DEN,1,0,0
+2022,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2022,NBA,Golden State Warriors,TRUE,GSW,1,0,0
+2022,NBA,Houston Rockets,FALSE,HOU,0,0,0
+2022,NBA,Indiana Pacers,FALSE,IND,0,0,0
+2022,NBA,Los Angeles Clippers,FALSE,LAC,0,0,0
+2022,NBA,Los Angeles Lakers,FALSE,LAL,0,0,0
+2022,NBA,Memphis Grizzlies,TRUE,MEM,1,0,1
+2022,NBA,Miami Heat,TRUE,MIA,1,1,1
+2022,NBA,Milwaukee Bucks,TRUE,MIL,1,0,1
+2022,NBA,Minnesota Timberwolves,TRUE,MIN,1,0,0
+2022,NBA,New Orleans Pelicans,TRUE,NOP,1,0,0
+2022,NBA,New York Knicks,FALSE,NYK,0,0,0
+2022,NBA,Oklahoma City Thunder,FALSE,OKC,0,0,0
+2022,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2022,NBA,Philadelphia 76ers,TRUE,PHI,1,0,0
+2022,NBA,Phoenix Suns,TRUE,PHO,1,1,1
+2022,NBA,Portland Trail Blazers,FALSE,POR,0,0,0
+2022,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2022,NBA,San Antonio Spurs,FALSE,SAS,0,0,0
+2022,NBA,Toronto Raptors,TRUE,TOR,1,0,0
+2022,NBA,Utah Jazz,TRUE,UTA,1,0,1
+2022,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2021,NBA,Atlanta Hawks,TRUE,ATL,1,0,1
+2021,NBA,Boston Celtics,TRUE,BOS,1,0,0
+2021,NBA,Brooklyn Nets,TRUE,BRK,1,0,0
+2021,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2021,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2021,NBA,Cleveland Cavaliers,FALSE,CLE,0,0,0
+2021,NBA,Dallas Mavericks,TRUE,DAL,1,0,1
+2021,NBA,Denver Nuggets,TRUE,DEN,1,0,0
+2021,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2021,NBA,Golden State Warriors,FALSE,GSW,0,0,0
+2021,NBA,Houston Rockets,FALSE,HOU,0,0,0
+2021,NBA,Indiana Pacers,FALSE,IND,0,0,0
+2021,NBA,Los Angeles Clippers,TRUE,LAC,1,0,0
+2021,NBA,Los Angeles Lakers,TRUE,LAL,1,0,0
+2021,NBA,Memphis Grizzlies,TRUE,MEM,1,0,0
+2021,NBA,Miami Heat,TRUE,MIA,1,0,0
+2021,NBA,Milwaukee Bucks,TRUE,MIL,1,0,1
+2021,NBA,Minnesota Timberwolves,FALSE,MIN,0,0,0
+2021,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2021,NBA,New York Knicks,TRUE,NYK,1,0,0
+2021,NBA,Oklahoma City Thunder,FALSE,OKC,0,0,0
+2021,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2021,NBA,Philadelphia 76ers,TRUE,PHI,1,1,1
+2021,NBA,Phoenix Suns,TRUE,PHO,1,0,1
+2021,NBA,Portland Trail Blazers,TRUE,POR,1,0,0
+2021,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2021,NBA,San Antonio Spurs,FALSE,SAS,0,0,0
+2021,NBA,Toronto Raptors,FALSE,TOR,0,0,0
+2021,NBA,Utah Jazz,TRUE,UTA,1,1,1
+2021,NBA,Washington Wizards,TRUE,WAS,1,0,0
+2020,NBA,Atlanta Hawks,FALSE,ATL,0,0,0
+2020,NBA,Boston Celtics,TRUE,BOS,1,0,0
+2020,NBA,Brooklyn Nets,TRUE,BRK,1,0,0
+2020,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2020,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2020,NBA,Cleveland Cavaliers,FALSE,CLE,0,0,0
+2020,NBA,Dallas Mavericks,TRUE,DAL,1,0,0
+2020,NBA,Denver Nuggets,TRUE,DEN,1,0,1
+2020,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2020,NBA,Golden State Warriors,FALSE,GSW,0,0,0
+2020,NBA,Houston Rockets,TRUE,HOU,1,0,1
+2020,NBA,Indiana Pacers,TRUE,IND,1,0,0
+2020,NBA,Los Angeles Clippers,TRUE,LAC,1,0,0
+2020,NBA,Los Angeles Lakers,TRUE,LAL,1,1,1
+2020,NBA,Memphis Grizzlies,FALSE,MEM,0,0,0
+2020,NBA,Miami Heat,TRUE,MIA,1,0,1
+2020,NBA,Milwaukee Bucks,TRUE,MIL,1,1,1
+2020,NBA,Minnesota Timberwolves,FALSE,MIN,0,0,0
+2020,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2020,NBA,New York Knicks,FALSE,NYK,0,0,0
+2020,NBA,Oklahoma City Thunder,TRUE,OKC,1,0,0
+2020,NBA,Orlando Magic,TRUE,ORL,1,0,0
+2020,NBA,Philadelphia 76ers,TRUE,PHI,1,0,0
+2020,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2020,NBA,Portland Trail Blazers,TRUE,POR,1,0,0
+2020,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2020,NBA,San Antonio Spurs,FALSE,SAS,0,0,0
+2020,NBA,Toronto Raptors,TRUE,TOR,1,0,1
+2020,NBA,Utah Jazz,TRUE,UTA,1,0,0
+2020,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2019,NBA,Atlanta Hawks,FALSE,ATL,0,0,0
+2019,NBA,Boston Celtics,TRUE,BOS,1,0,0
+2019,NBA,Brooklyn Nets,TRUE,BRK,1,0,0
+2019,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2019,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2019,NBA,Cleveland Cavaliers,FALSE,CLE,0,0,0
+2019,NBA,Dallas Mavericks,FALSE,DAL,0,0,0
+2019,NBA,Denver Nuggets,TRUE,DEN,1,0,1
+2019,NBA,Detroit Pistons,TRUE,DET,1,0,0
+2019,NBA,Golden State Warriors,TRUE,GSW,1,1,1
+2019,NBA,Houston Rockets,TRUE,HOU,1,0,1
+2019,NBA,Indiana Pacers,TRUE,IND,1,0,0
+2019,NBA,Los Angeles Clippers,TRUE,LAC,1,0,0
+2019,NBA,Los Angeles Lakers,FALSE,LAL,0,0,0
+2019,NBA,Memphis Grizzlies,FALSE,MEM,0,0,0
+2019,NBA,Miami Heat,FALSE,MIA,0,0,0
+2019,NBA,Milwaukee Bucks,TRUE,MIL,1,1,1
+2019,NBA,Minnesota Timberwolves,FALSE,MIN,0,0,0
+2019,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2019,NBA,New York Knicks,FALSE,NYK,0,0,0
+2019,NBA,Oklahoma City Thunder,TRUE,OKC,1,0,0
+2019,NBA,Orlando Magic,TRUE,ORL,1,0,1
+2019,NBA,Philadelphia 76ers,TRUE,PHI,1,0,0
+2019,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2019,NBA,Portland Trail Blazers,TRUE,POR,1,0,0
+2019,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2019,NBA,San Antonio Spurs,TRUE,SAS,1,0,0
+2019,NBA,Toronto Raptors,TRUE,TOR,1,0,1
+2019,NBA,Utah Jazz,TRUE,UTA,1,0,0
+2019,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2018,NBA,Atlanta Hawks,FALSE,ATL,0,0,0
+2018,NBA,Boston Celtics,TRUE,BOS,1,0,0
+2018,NBA,Brooklyn Nets,FALSE,BRK,0,0,0
+2018,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2018,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2018,NBA,Cleveland Cavaliers,TRUE,CLE,1,0,1
+2018,NBA,Dallas Mavericks,FALSE,DAL,0,0,0
+2018,NBA,Denver Nuggets,FALSE,DEN,0,0,0
+2018,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2018,NBA,Golden State Warriors,TRUE,GSW,1,0,1
+2018,NBA,Houston Rockets,TRUE,HOU,1,1,1
+2018,NBA,Indiana Pacers,TRUE,IND,1,0,0
+2018,NBA,Los Angeles Clippers,FALSE,LAC,0,0,0
+2018,NBA,Los Angeles Lakers,FALSE,LAL,0,0,0
+2018,NBA,Memphis Grizzlies,FALSE,MEM,0,0,0
+2018,NBA,Miami Heat,TRUE,MIA,1,0,1
+2018,NBA,Milwaukee Bucks,TRUE,MIL,1,0,0
+2018,NBA,Minnesota Timberwolves,TRUE,MIN,1,0,0
+2018,NBA,New Orleans Pelicans,TRUE,NOP,1,0,0
+2018,NBA,New York Knicks,FALSE,NYK,0,0,0
+2018,NBA,Oklahoma City Thunder,TRUE,OKC,1,0,0
+2018,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2018,NBA,Philadelphia 76ers,TRUE,PHI,1,0,0
+2018,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2018,NBA,Portland Trail Blazers,TRUE,POR,1,0,1
+2018,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2018,NBA,San Antonio Spurs,TRUE,SAS,1,0,0
+2018,NBA,Toronto Raptors,TRUE,TOR,1,1,1
+2018,NBA,Utah Jazz,TRUE,UTA,1,0,0
+2018,NBA,Washington Wizards,TRUE,WAS,1,0,0
+2017,NBA,Atlanta Hawks,TRUE,ATL,1,0,0
+2017,NBA,Boston Celtics,TRUE,BOS,1,1,1
+2017,NBA,Brooklyn Nets,FALSE,BRK,0,0,0
+2017,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2017,NBA,Chicago Bulls,TRUE,CHI,1,0,0
+2017,NBA,Cleveland Cavaliers,TRUE,CLE,1,0,1
+2017,NBA,Dallas Mavericks,FALSE,DAL,0,0,0
+2017,NBA,Denver Nuggets,FALSE,DEN,0,0,0
+2017,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2017,NBA,Golden State Warriors,TRUE,GSW,1,1,1
+2017,NBA,Houston Rockets,TRUE,HOU,1,0,0
+2017,NBA,Indiana Pacers,TRUE,IND,1,0,0
+2017,NBA,Los Angeles Clippers,TRUE,LAC,1,0,0
+2017,NBA,Los Angeles Lakers,FALSE,LAL,0,0,0
+2017,NBA,Memphis Grizzlies,TRUE,MEM,1,0,0
+2017,NBA,Miami Heat,FALSE,MIA,0,0,0
+2017,NBA,Milwaukee Bucks,TRUE,MIL,1,0,0
+2017,NBA,Minnesota Timberwolves,FALSE,MIN,0,0,0
+2017,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2017,NBA,New York Knicks,FALSE,NYK,0,0,0
+2017,NBA,Oklahoma City Thunder,TRUE,OKC,1,0,0
+2017,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2017,NBA,Philadelphia 76ers,FALSE,PHI,0,0,0
+2017,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2017,NBA,Portland Trail Blazers,TRUE,POR,1,0,0
+2017,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2017,NBA,San Antonio Spurs,TRUE,SAS,1,0,1
+2017,NBA,Toronto Raptors,TRUE,TOR,1,0,0
+2017,NBA,Utah Jazz,TRUE,UTA,1,0,1
+2017,NBA,Washington Wizards,TRUE,WAS,1,0,1
+2016,NBA,Atlanta Hawks,TRUE,ATL,1,0,0
+2016,NBA,Boston Celtics,TRUE,BOS,1,0,0
+2016,NBA,Brooklyn Nets,FALSE,BRK,0,0,0
+2016,NBA,Charlotte Hornets,TRUE,CHO,1,0,0
+2016,NBA,Chicago Bulls,FALSE,CHI,0,0,0
+2016,NBA,Cleveland Cavaliers,TRUE,CLE,1,1,1
+2016,NBA,Dallas Mavericks,TRUE,DAL,1,0,0
+2016,NBA,Denver Nuggets,FALSE,DEN,0,0,0
+2016,NBA,Detroit Pistons,TRUE,DET,1,0,0
+2016,NBA,Golden State Warriors,TRUE,GSW,1,1,1
+2016,NBA,Houston Rockets,TRUE,HOU,1,0,0
+2016,NBA,Indiana Pacers,TRUE,IND,1,0,0
+2016,NBA,Los Angeles Clippers,TRUE,LAC,1,0,0
+2016,NBA,Los Angeles Lakers,FALSE,LAL,0,0,0
+2016,NBA,Memphis Grizzlies,TRUE,MEM,1,0,0
+2016,NBA,Miami Heat,TRUE,MIA,1,0,1
+2016,NBA,Milwaukee Bucks,FALSE,MIL,0,0,0
+2016,NBA,Minnesota Timberwolves,FALSE,MIN,0,0,0
+2016,NBA,New Orleans Pelicans,FALSE,NOP,0,0,0
+2016,NBA,New York Knicks,FALSE,NYK,0,0,0
+2016,NBA,Oklahoma City Thunder,TRUE,OKC,1,0,1
+2016,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2016,NBA,Philadelphia 76ers,FALSE,PHI,0,0,0
+2016,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2016,NBA,Portland Trail Blazers,TRUE,POR,1,0,0
+2016,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2016,NBA,San Antonio Spurs,TRUE,SAS,1,0,1
+2016,NBA,Toronto Raptors,TRUE,TOR,1,0,1
+2016,NBA,Utah Jazz,FALSE,UTA,0,0,0
+2016,NBA,Washington Wizards,FALSE,WAS,0,0,0
+2015,NBA,Atlanta Hawks,TRUE,ATL,1,1,1
+2015,NBA,Boston Celtics,TRUE,BOS,1,0,0
+2015,NBA,Brooklyn Nets,TRUE,BRK,1,0,0
+2015,NBA,Charlotte Hornets,FALSE,CHO,0,0,0
+2015,NBA,Chicago Bulls,TRUE,CHI,1,0,0
+2015,NBA,Cleveland Cavaliers,TRUE,CLE,1,0,1
+2015,NBA,Dallas Mavericks,TRUE,DAL,1,0,0
+2015,NBA,Denver Nuggets,FALSE,DEN,0,0,0
+2015,NBA,Detroit Pistons,FALSE,DET,0,0,0
+2015,NBA,Golden State Warriors,TRUE,GSW,1,1,1
+2015,NBA,Houston Rockets,TRUE,HOU,1,0,1
+2015,NBA,Indiana Pacers,FALSE,IND,0,0,0
+2015,NBA,Los Angeles Clippers,TRUE,LAC,1,0,0
+2015,NBA,Los Angeles Lakers,FALSE,LAL,0,0,0
+2015,NBA,Memphis Grizzlies,TRUE,MEM,1,0,0
+2015,NBA,Miami Heat,FALSE,MIA,0,0,0
+2015,NBA,Milwaukee Bucks,TRUE,MIL,1,0,0
+2015,NBA,Minnesota Timberwolves,FALSE,MIN,0,0,0
+2015,NBA,New Orleans Pelicans,TRUE,NOP,1,0,0
+2015,NBA,New York Knicks,FALSE,NYK,0,0,0
+2015,NBA,Oklahoma City Thunder,FALSE,OKC,0,0,0
+2015,NBA,Orlando Magic,FALSE,ORL,0,0,0
+2015,NBA,Philadelphia 76ers,FALSE,PHI,0,0,0
+2015,NBA,Phoenix Suns,FALSE,PHO,0,0,0
+2015,NBA,Portland Trail Blazers,TRUE,POR,1,0,1
+2015,NBA,Sacramento Kings,FALSE,SAC,0,0,0
+2015,NBA,San Antonio Spurs,TRUE,SAS,1,0,0
+2015,NBA,Toronto Raptors,TRUE,TOR,1,0,1
+2015,NBA,Utah Jazz,FALSE,UTA,0,0,0
+2015,NBA,Washington Wizards,TRUE,WAS,1,0,0
