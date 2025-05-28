@@ -1,3 +1,3 @@
-# NBA_honors_selections
+# NBA Honors Selections 2024-25 season
 
 This project, "NBA Honors Selections," explores the predictability of NBA honors (All-NBA, All-Defensive, All-Rookie) using regular-season box score statistics. Leveraging a Kaggle dataset spanning the 2016-17 to 2023-24 seasons (excluding 2019-20 and 2020-21), the study focuses on per 100 possessions statistics to standardize efficiency. Logistic regression models were built for each honor, employing stepwise selection and best subset regression. Key findings indicate that minutes and scoring per 100 possessions are strong indicators for All-Rookie selections, with an emphasis on defensive contribution without excessive fouling. Defensive selections proved more complex due to significant interaction terms. This project could be important for front office decisions, player valuation, and sports betting markets.
